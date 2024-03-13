@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:DataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="24649300-0bc0-411f-a641-dbd13169cf6f">
+  <producedTypes>
+    <objectType typeId="082c2fc2-b3c1-45c6-af2d-cadc1cda8720" valueTypeId="bd4a3567-bec6-4696-b99a-a6932ab1f446"/>
+    <managerType typeId="0886b713-936d-4900-a9f9-1e639faded17" valueTypeId="14bca4f1-d760-4e3c-bde9-4ac955d0e326"/>
+  </producedTypes>
+  <name>ПриИзмененииТовара</name>
+  <synonym>
+    <key>ru</key>
+    <value>При изменении товара</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+</mdclass:DataProcessor>

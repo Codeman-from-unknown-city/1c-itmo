@@ -34,6 +34,9 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <sessionParameters>SessionParameter.ТекущийПользователь</sessionParameters>
+  <roles>Role.Администратор</roles>
+  <roles>Role.Пользователь</roles>
   <commonModules>CommonModule.СерверныеПроцедуры</commonModules>
   <catalogs>Catalog.Валюты</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
@@ -41,6 +44,7 @@
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Склад</catalogs>
   <catalogs>Catalog.Договоры</catalogs>
+  <catalogs>Catalog.Пользователи</catalogs>
   <documents>Document.ПриходнаяНакладная</documents>
   <documents>Document.РасходнаяНакладная</documents>
   <dataProcessors>DataProcessor.ПриИзмененииТовара</dataProcessors>

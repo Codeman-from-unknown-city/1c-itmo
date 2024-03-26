@@ -179,6 +179,10 @@
 			<value>true</value>
 		</right>
 		<right>
+			<name>ThickClient</name>
+			<value>true</value>
+		</right>
+		<right>
 			<name>MainWindowModeNormal</name>
 			<value>true</value>
 		</right>
@@ -208,10 +212,6 @@
 		</right>
 		<right>
 			<name>Output</name>
-			<value>true</value>
-		</right>
-		<right>
-			<name>ThickClient</name>
 			<value>true</value>
 		</right>
 	</object>

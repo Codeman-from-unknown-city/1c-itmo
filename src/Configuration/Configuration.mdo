@@ -47,7 +47,7 @@
   <catalogs>Catalog.Пользователи</catalogs>
   <documents>Document.ПриходнаяНакладная</documents>
   <documents>Document.РасходнаяНакладная</documents>
-  <dataProcessors>DataProcessor.ПриИзмененииТовара</dataProcessors>
+  <dataProcessors>DataProcessor.ОчисткаДвижений</dataProcessors>
   <informationRegisters>InformationRegister.ЦеныНоменклатуры</informationRegisters>
   <accumulationRegisters>AccumulationRegister.ОстаткиТоваров</accumulationRegisters>
 </mdclass:Configuration>
